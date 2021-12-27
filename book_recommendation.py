@@ -6,7 +6,6 @@ import urllib.request
 from PIL import Image
 import matplotlib.pyplot as plt
 import requests
-import Utils_cagri as util
 from mlxtend.frequent_patterns import apriori, association_rules
 pd.set_option('display.max_columns', 20)
 pd.set_option('display.expand_frame_repr', False)
