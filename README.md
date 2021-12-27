@@ -7,6 +7,7 @@ For this sample;
 
 I tried to merge all datasets and analyse them with item based and user based algorithm.
 I created one function to give a choice to select item or based algorithm to user.
+According to users choice, system is recommending 2 books to user.
 # Dataset
 
 The Book-Crossing dataset comprises 3 files. You can reach datasets but this adress (https://www.kaggle.com/arashnic/book-recommendation-dataset)
