@@ -23,7 +23,7 @@ r={}
 for i,j in enumerate(data["Book-Title"].unique()):
     r[j]=i
 data["Book-ID"]=data["Book-Title"].map(r)
-random_user=int(data["User-ID"].sample(1,random_state=40))
+
 
 
 def item_based_recommender(kitap, data):
