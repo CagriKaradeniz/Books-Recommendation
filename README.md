@@ -1,5 +1,5 @@
 # Books-Recommendation
-![This is an image](https://uploads-ssl.webflow.com/5fdc17d51dc102ed1cf87c05/602c3dd964f94d4a9cfa8555_netflix.png)
+![This is an image](https://github.com/CagriKaradeniz/Books-Recommendation/blob/main/1640582343731_Recommendation.png?raw=true)
 # Business Problem
 During the last few decades, with the rise of Youtube, Amazon, Netflix and many other such web services, recommender systems have taken more and more place in our lives. From e-commerce (suggest to buyers articles that could interest them) to online advertisement (suggest to users the right contents, matching their preferences), recommender systems are today unavoidable in our daily online journeys.
 
